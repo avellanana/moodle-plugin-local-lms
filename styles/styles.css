@@ -1,0 +1,14 @@
+.lmsdashboard-table {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.lmsdashboard-table th,
+.lmsdashboard-table td {
+    padding: 0.75rem;
+    vertical-align: middle;
+}
+
+.lmsdashboard-table th {
+    white-space: nowrap;
+}
